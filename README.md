@@ -1,4 +1,4 @@
-Templates and Resources for your Git repositories
+30 Days of Code HackerRank
 =====================
 
 # Description
