@@ -15,4 +15,4 @@ Currently only the pull request template has been created. Aiming to complete th
 
 - [X] PULL_REQUEST_TEMPLATE.md
 - [X] CONTRIBUTING.md
-- [ ] ISSUE_TEMPLATE.md
+- [X] ISSUE_TEMPLATE.md
