@@ -2,19 +2,17 @@
 =====================
 
 # Description
-Improve your coding skills by coding for 30 days in a row. A new coding challange and tutorial is unlocked each day. Tutorial videos by Kathryn Hodge on HackerRank.
+This repo provides a list of files which makes maintaining your GitHub Repositories easier. You must create templates on the repository's default branch. Templates created in other branches are not available for collaborators to use. These template files can be added by repository maintainers as contributing guidelines which help collaborators make meaningful, useful contributions to a project. 
+
 
 # How 
-One challange is completed each day and the language I have chosen to focus my attention is Java. Core concepts examined in this course include
-- Basic programming techniques
-- Using classes and methods
-- Using variables
-- Using operators and loop constructs
-- Using encapsulation and constructors 
+GitHub allows for template files to be added to your repositories such as  `CONTRIBUTING.md`, `ISSUE_TEMPLATE.md`, and `PULL_REQUEST_TEMPLATE.md` files. These can be visible or hidden when added:
+* To make your templates visible in the repository's docs directory, type docs/ followed by the name of your template file. For example, docs/issue_template.md
+* To store your file in a hidden directory, type .github/ followed by the name of your template file. For example, .github/issue_template.md.
 
 # Plans
-WIP . Aiming to complete the following:
+Currently only the pull request template has been created. Aiming to complete the following:
 
-- [X] Add list of excerises
-- [X] Add list of excerises
-- [ ] Add list of excerises
+- [X] PULL_REQUEST_TEMPLATE.md
+- [X] CONTRIBUTING.md
+- [ ] ISSUE_TEMPLATE.md
